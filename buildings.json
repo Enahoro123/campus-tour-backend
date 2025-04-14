@@ -1,0 +1,264 @@
+[
+    { 
+      "id": 1, 
+      "name": "Library", 
+      "lat": 7.1677434346582345, 
+      "lng": 5.584107689423546, 
+      "info": "Main library with 24/7 access.", 
+      "panorama": "https://res.cloudinary.com/dajfddyeg/image/upload/v1743816974/project/fwdp49fkxouoevsyvgbg.jpg", 
+      "hours": {
+        "Monday-Friday": "8:00 AM - 5:00 PM",
+        "Saturday": "Closed",
+        "Sunday": "Closed"
+      }, 
+      "contact": { "phone": "+234 123 456 7891", "email": "science@campus.edu" },
+      "photos": [
+        { "url": "https://res.cloudinary.com/dajfddyeg/image/upload/v1743816968/project/a9pcihqnytrvgfytif5k.jpg", "is360": false }, 
+        { "url": "https://res.cloudinary.com/dajfddyeg/image/upload/v1743816974/project/xhuqdtsca9lavhdwzy9t.jpg", "is360": true }, 
+        { "url": "https://res.cloudinary.com/dajfddyeg/image/upload/v1743816979/project/qcczlp1pij0mro5grbbg.jpg", "is360": false }
+      ],
+      "category": "library" 
+    },
+    {
+      "id": 2,
+      "name": "Olakunrin Hall",
+      "lat": 7.166255718534718,
+      "lng": 5.583459121658334,
+      "info": "Labs and research facilities.",
+      "panorama": "https://pannellum.org/images/alma.jpg",
+      "hours": {
+        "Monday-Friday": "8:00 AM - 6:00 PM",
+        "Saturday": "Closed",
+        "Sunday": "Closed"
+      }, 
+      "contact": { "phone": "+234 123 456 7891", "email": "science@campus.edu" },
+      "photos": [
+        { "url": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c", "is360": false }, 
+        { "url": "https://pannellum.org/images/alma.jpg", "is360": true }, 
+        { "url": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1", "is360": false }
+      ],
+      "category": "hostel"
+    },
+    { 
+      "id": 3,  
+      "name": "Sports Center", 
+      "lat": 7.169389204824148, 
+      "lng": 5.586664285031986, 
+      "info": "Main library with 24/7 access.", 
+      "panorama": "path/to/library-360.jpg",
+      "hours": {
+        "Monday-Friday": "6:00 AM - 7:00 PM",
+        "Saturday": "Closed",
+        "Sunday": "Closed"
+      }, 
+        "contact": { "phone": "+234 123 456 7891", "email": "science@campus.edu" },
+        "photos": [
+          { "url": "https://res.cloudinary.com/dajfddyeg/image/upload/v1743816977/project/jidrqd4cwjgpnp4kohyf.jpg", "is360": false },
+          { "url": "https://pannellum.org/images/alma.jpg", "is360": true }, 
+          { "url": "https://res.cloudinary.com/dajfddyeg/image/upload/v1743816979/project/canrvighzeeythpgpk59.jpg", "is360": false }
+        ],
+      "category": "sports"
+     },
+    { 
+      "id": 4,  
+      "name": "Football Field", 
+      "lat": 7.169416742407802, 
+      "lng": 5.588403892948219, 
+      "info": "Main library with 24/7 access.", 
+      "panorama": "path/to/library-360.jpg",
+      "category": "sports"
+    },
+    { 
+      "id": 5,  
+      "name": "Geology Laboratory", 
+      "lat": 7.168419391079243, 
+      "lng": 5.5849445386219125, 
+      "info": "Main library with 24/7 access.", 
+      "panorama": "https://res.cloudinary.com/dajfddyeg/image/upload/v1743082443/Lab_rtvldb.jpg",
+      "category": "Academics"
+    },
+    { 
+      "id": 6,  
+      "name": "Health Center", 
+      "lat": 7.1689900189214635, 
+      "lng": 5.585870351165361, 
+      "info": "Main library with 24/7 access.", 
+      "panorama": "https://res.cloudinary.com/dajfddyeg/image/upload/v1743816968/project/pqernxkqf9aqeova0eee.jpg",
+      "category": "health"
+    },
+    { 
+      "id": 7,  
+      "name": "Law", 
+      "lat": 7.16865030519752, 
+      "lng": 5.585485649537393, 
+      "info": "Main library with 24/7 access.", 
+      "panorama": "https://res.cloudinary.com/dajfddyeg/image/upload/v1743816972/project/mpxvudgdgjiketplrjam.jpg",
+      "hours": {
+        "Monday-Friday": "8:00 AM - 6:00 PM",
+        "Saturday": "Closed",
+        "Sunday": "Closed"
+      },
+      "contact": { "phone": "+234 123 456 7891", "email": "science@campus.edu" },
+      "photos": [
+        { "url": "https://res.cloudinary.com/dajfddyeg/image/upload/v1743816979/project/qcczlp1pij0mro5grbbg.jpg", "is360": false }, 
+        { "url": "https://res.cloudinary.com/dajfddyeg/image/upload/v1743816974/project/fwdp49fkxouoevsyvgbg.jpg", "is360": true }, 
+        { "url": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1", "is360": false }  
+      ],
+      "category": "academic"
+    }, 
+    { 
+      "id": 8,  
+      "name": "CBT", 
+      "lat": 7.16737052336126, 
+      "lng": 5.585984551723982, 
+      "info": "Main library with 24/7 access.", 
+      "panorama": "https://res.cloudinary.com/dajfddyeg/image/upload/v1743816951/project/trfhl1vz1sxmbk6rb5l8.jpg",
+      "category": "academic"
+    },
+    { 
+      "id": 9,  
+      "name": "COSMAS", 
+      "lat": 7.167562133317991, 
+      "lng": 5.586343967739013, 
+      "info": "Main library with 24/7 access.", 
+      "panorama": "https://res.cloudinary.com/dajfddyeg/image/upload/v1743816954/project/cnwsottah1gjtp2qchcf.jpg",
+      "hours": {
+          "Monday-Friday": "8:00 AM - 6:00 PM",
+          "Saturday": "Closed",
+          "Sunday": "Closed"
+      },
+      "contact": { "phone": "+234 123 456 7891", "email": "science@campus.edu" },
+      "photos": [
+        { "url": "https://res.cloudinary.com/dajfddyeg/image/upload/v1743816969/project/d9bm24q2lnrxhalarsyr.jpg", "is360": false }, 
+        { "url": "https://res.cloudinary.com/dajfddyeg/image/upload/v1743816954/project/cnwsottah1gjtp2qchcf.jpg", "is360": true }, 
+        { "url": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1", "is360": false }  
+      ],
+      "category": "academic" 
+    },
+    { 
+      "id": 10, 
+      "name": "Auditorium", 
+      "lat": 7.168063906286715, 
+      "lng": 5.586261953689201, 
+      "info": "Main library with 24/7 access.", 
+      "panorama": "https://res.cloudinary.com/dajfddyeg/image/upload/v1743816954/project/s7wuikzt5n5noaizi40r.jpg",
+      "category": "Hall" 
+    },
+    { 
+      "id": 11, 
+      "name": "Sports Office", 
+      "lat": 7.168621309125595, 
+      "lng": 5.585061871808582, 
+      "info": "Sport Director's Office", 
+      "panorama": "https://res.cloudinary.com/dajfddyeg/image/upload/v1743816970/project/gm6gk8fminlho6fufaqp.jpg"  
+    },
+    { "id": 12, "name": "ICT", "lat": 7.168189913842379, "lng": 5.584874092313215, "info": "Main library with 24/7 access.", "panorama": "path/to/library-360.jpg"  },
+    { "id": 13, "name": "Lecture Hall (LH)", "lat": 7.167941197699729, "lng": 5.5855877772205, "info": "Main library with 24/7 access.", "panorama": "path/to/library-360.jpg"  },
+    { 
+      "id": 14, 
+      "name": "Admin", 
+      "lat": 7.167841795358599, 
+      "lng": 5.585448802375152, 
+      "info": "Administrative building", 
+      "panorama": "https://res.cloudinary.com/dajfddyeg/image/upload/v1743816964/project/j1nnykoofxuw2n6bmwff.jpg", 
+      "hours": {
+          "Monday-Friday": "8:00 AM - 6:00 PM",
+          "Saturday": "Closed",
+          "Sunday": "Closed"
+      },
+      "contact": { "phone": "+234 123 456 7891", "email": "science@campus.edu" },
+      "photos": [
+        { "url": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c", "is360": false }, 
+        { "url": "https://res.cloudinary.com/dajfddyeg/image/upload/v1743816954/project/z5u4ql3cs85spn11jwrr.jpg", "is360": true }, 
+        { "url": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1", "is360": false }  
+      ]
+      }, 
+    { 
+      "id": 15, 
+      "name": "Student Center", 
+      "lat": 7.164408264876963, 
+      "lng": 5.5834471706904845, 
+      "info": "Main library with 24/7 access.",
+      "panorama": "https://res.cloudinary.com/dajfddyeg/image/upload/v1743816977/project/zbzrtsnfm8ipm3huqwzo.jpg"  
+    },
+    { "id": 16, "name": "Mini Field", "lat": 7.164115525384708, "lng": 5.582900000040736, "info": "Main library with 24/7 access.", "panorama": "path/to/library-360.jpg"  },
+    { 
+      "id": 17, 
+      "name": "Engineering", 
+      "lat": 7.164792014871006, 
+      "lng": 5.583946708797053, 
+      "info": "Engineering Department", 
+      "panorama": "https://res.cloudinary.com/dajfddyeg/image/upload/v1743460538/project/kmxrgv9gv2g2qlq5hqai.jpg",
+      "hours": {
+        "Monday-Friday": "8:00 AM - 6:00 PM",
+        "Saturday": "Closed",
+        "Sunday": "Closed"
+    },
+      "contact": { "phone": "+234 123 456 7891", "email": "science@campus.edu" },
+      "photos": [
+        { "url": "https://res.cloudinary.com/dajfddyeg/image/upload/v1743816964/project/qk2dkutlsaha9dbgwter.jpg", "is360": false }, 
+        { "url": "https://pannellum.org/images/alma.jpg", "is360": true }, 
+        { "url": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1", "is360": false }  
+      ]
+    },   
+    { "id": 18, "name": "Green House", "lat": 7.163498046694972, "lng": 5.585006161277495, "info": "Main library with 24/7 access.", "panorama": "path/to/library-360.jpg"  },
+    { "id": 19, "name": "Workshop", "lat": 7.165188543179739, "lng": 5.584719184997732, "info": "Main library with 24/7 access.", "panorama": "path/to/library-360.jpg"  },
+    { "id": 20, "name": "Bode Olajumoke Hall", "lat": 7.16333630055384, "lng": 5.583458546759577, "info": "Female Hostel", "panorama": "path/to/library-360.jpg"  },
+    { 
+      "id": 21, 
+      "name": "Lady Babade Adelami Hall", 
+      "lat": 7.163676943434596, 
+      "lng": 5.5822891036209965, 
+      "info": "Female Hostel", 
+      "panorama": "https://res.cloudinary.com/dajfddyeg/image/upload/v1743816968/project/ciyasfn1i5jlyliqmonx.jpg"  
+    },
+    { "id": 22, "name": "Bakery", "lat": 7.163000979967057, "lng": 5.581366423712312, "info": "School Bakery", "panorama": "path/to/library-360.jpg"  },
+    { "id": 23, "name": "Atiku Hall", "lat": 7.162990334869092, "lng": 5.582739714736133, "info": "Male Hostel", "panorama": "path/to/library-360.jpg"  },
+    { 
+      "id": 24, 
+      "name": "Joked", 
+      "lat": 7.1650788331628155, 
+      "lng": 5.583175670024348, 
+      "info": "Restaurant", 
+      "panorama": "https://res.cloudinary.com/dajfddyeg/image/upload/v1743816954/project/vlgzzlynlvlixiv0akwo.jpg"  
+    },
+    {
+      "id": 25,
+      "name": "Political Science",
+      "lat": 7.167508779921275,
+      "lng": 5.586657552594374,
+      "info": "Political science Department",
+      "panorama": "https://pannellum.org/images/alma.jpg",
+      "hours": {
+        "Monday-Friday": "8:00 AM - 6:00 PM",
+        "Saturday": "Closed",
+        "Sunday": "Closed"
+      }, 
+      "contact": { "phone": "+234 123 456 7891", "email": "science@campus.edu" },
+    "photos": [
+      { "url": "https://res.cloudinary.com/dajfddyeg/image/upload/v1743816977/project/yledf3xzkblgmhd1lhai.jpg", "is360": false },
+      { "url": "https://pannellum.org/images/alma.jpg", "is360": true }, 
+      { "url": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1", "is360": false }
+    ]
+    },
+    {
+      "id": 26,
+      "name": "Nursing Faculty", 
+      "lat": 7.166861433970025,
+      "lng": 5.58184854039973,
+      "info": "Nursing Faculty",
+      "panorama": "https://res.cloudinary.com/dajfddyeg/image/upload/v1743816972/project/ufpyznswtwmwwdbyx9k0.jpg",
+      "hours": {
+        "Monday-Friday": "8:00 AM - 5:00 PM",
+        "Saturday": "Closed",
+        "Sunday": "Closed"
+      }, 
+      "contact": { "phone": "+234 123 456 7891", "email": "science@campus.edu" },
+    "photos": [
+      { "url": "https://res.cloudinary.com/dajfddyeg/image/upload/v1743816976/project/zhigm4ichdskcrxeszgb.jpg", "is360": false },
+      { "url": "https://pannellum.org/images/alma.jpg", "is360": true }, 
+      { "url": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1", "is360": false }
+    ]
+    }
+  ]
+  
