@@ -3,8 +3,13 @@ const cors = require("cors");
 const buildings = require("./buildings.json");
 const port = process.env.PORT || 5000;
 
+app.use(cors({
+  origin: "https://achievers-campus-map.netlify.app/", 
+  methods: ["GET", "POST"],
+  allowedHeaders: ["Content-Type"],
+}));
+
 const app = express();
-app.use(cors());
 
 // Route to get all buildings
 app.get("/buildings", (req, res) => {
