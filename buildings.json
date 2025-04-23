@@ -4,7 +4,7 @@
       "name": "Library", 
       "lat": 7.1677434346582345, 
       "lng": 5.584107689423546, 
-      "info": "Main library with 24/7 access.", 
+      "info": "Main University library", 
       "panorama": "https://res.cloudinary.com/dajfddyeg/image/upload/v1743816974/project/fwdp49fkxouoevsyvgbg.jpg", 
       "hours": {
         "Monday-Friday": "8:00 AM - 5:00 PM",
@@ -24,12 +24,12 @@
       "name": "Olakunrin Hall",
       "lat": 7.166255718534718,
       "lng": 5.583459121658334,
-      "info": "Labs and research facilities.",
+      "info": "Male and Female Hostel with 24/7 access.",
       "panorama": "https://pannellum.org/images/alma.jpg",
       "hours": {
-        "Monday-Friday": "8:00 AM - 6:00 PM",
-        "Saturday": "Closed",
-        "Sunday": "Closed"
+        "Monday-Sunday": "24/7",
+        "Saturday": "Open",
+        "Sunday": "Open"
       }, 
       "contact": { "phone": "+234 123 456 7891", "email": "science@campus.edu" },
       "photos": [
@@ -44,7 +44,7 @@
       "name": "Sports Center", 
       "lat": 7.169389204824148, 
       "lng": 5.586664285031986, 
-      "info": "Main library with 24/7 access.", 
+      "info": "Sports center", 
       "panorama": "path/to/library-360.jpg",
       "hours": {
         "Monday-Friday": "6:00 AM - 7:00 PM",
@@ -64,8 +64,19 @@
       "name": "Football Field", 
       "lat": 7.169416742407802, 
       "lng": 5.588403892948219, 
-      "info": "Main library with 24/7 access.", 
+      "info": "Main Footbal Field", 
       "panorama": "path/to/library-360.jpg",
+      "hours": {
+        "Monday-Friday": "6:00 AM - 7:00 PM",
+        "Saturday": "Open",
+        "Sunday": "Open"
+      }, 
+        "contact": { "phone": "+234 123 456 7891", "email": "science@campus.edu" },
+        "photos": [
+          { "url": "https://res.cloudinary.com/dajfddyeg/image/upload/v1743816977/project/jidrqd4cwjgpnp4kohyf.jpg", "is360": false },
+          { "url": "https://pannellum.org/images/alma.jpg", "is360": true }, 
+          { "url": "https://res.cloudinary.com/dajfddyeg/image/upload/v1743816979/project/canrvighzeeythpgpk59.jpg", "is360": false }
+        ],
       "category": "sports"
     },
     { 
@@ -73,16 +84,26 @@
       "name": "Geology Laboratory", 
       "lat": 7.168419391079243, 
       "lng": 5.5849445386219125, 
-      "info": "Main library with 24/7 access.", 
-      "panorama": "https://res.cloudinary.com/dajfddyeg/image/upload/v1743082443/Lab_rtvldb.jpg",
-      "category": "Academics"
+      "info": "Research Lab for geology students", 
+      "panorama": "https://res.cloudinary.com/dajfddyeg/image/upload/v1743082443/Lab_rtvldb.jpg","hours": {
+        "Monday-Friday": "6:00 AM - 7:00 PM",
+        "Saturday": "Closed",
+        "Sunday": "Closed"
+      }, 
+        "contact": { "phone": "+234 123 456 7891", "email": "science@campus.edu" },
+        "photos": [
+          { "url": "https://res.cloudinary.com/dajfddyeg/image/upload/v1743816977/project/jidrqd4cwjgpnp4kohyf.jpg", "is360": false },
+          { "url": "https://pannellum.org/images/alma.jpg", "is360": true }, 
+          { "url": "https://res.cloudinary.com/dajfddyeg/image/upload/v1743816979/project/canrvighzeeythpgpk59.jpg", "is360": false }
+        ],
+      "category": "academic"
     },
     { 
       "id": 6,  
       "name": "Health Center", 
       "lat": 7.1689900189214635, 
       "lng": 5.585870351165361, 
-      "info": "Main library with 24/7 access.", 
+      "info": "Health Center with 24/7 access.", 
       "panorama": "https://res.cloudinary.com/dajfddyeg/image/upload/v1743816968/project/pqernxkqf9aqeova0eee.jpg",
       "category": "health"
     },
@@ -91,7 +112,7 @@
       "name": "Law", 
       "lat": 7.16865030519752, 
       "lng": 5.585485649537393, 
-      "info": "Main library with 24/7 access.", 
+      "info": "College of Law", 
       "panorama": "https://res.cloudinary.com/dajfddyeg/image/upload/v1743816972/project/mpxvudgdgjiketplrjam.jpg",
       "hours": {
         "Monday-Friday": "8:00 AM - 6:00 PM",
