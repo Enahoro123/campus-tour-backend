@@ -224,16 +224,16 @@
       "departments": [
       {
         "id": 1,
-        "name": "Reference Department",
+        "name": "Computer Science Department",
         "description": "Handles reference materials and research assistance.",
         "photos": [
-          "https://example.com/ref-dept-photo1.jpg",
+          "https://res.cloudinary.com/dajfddyeg/image/upload/v1743816964/project/qk2dkutlsaha9dbgwter.jpg",
           "https://example.com/ref-dept-photo2.jpg"
         ]
       },
       {
         "id": 2,
-        "name": "Circulation Department",
+        "name": "Computer Engineering Department",
        "description": "Manages book lending and returns.",
         "photos": [
           "https://example.com/circ-dept-photo1.jpg",
