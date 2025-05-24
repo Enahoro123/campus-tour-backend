@@ -3,6 +3,7 @@ const cors = require("cors");
 const buildings = require("./buildings.json");
 const port = process.env.PORT || 5000;
 
+const app = express();
 
 app.use(cors({
   origin: "https://achievers-campus-map.netlify.app/", 
@@ -10,7 +11,7 @@ app.use(cors({
   allowedHeaders: ["Content-Type"],
 }));
 
-const app = express();
+app.use(express.json());
 
 // Route to get all buildings
 app.get("/buildings", (req, res) => {
