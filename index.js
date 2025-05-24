@@ -11,7 +11,6 @@ app.use(cors({
   allowedHeaders: ["Content-Type"],
 }));
 
-app.use(express.json());
 
 // Route to get all buildings
 app.get("/buildings", (req, res) => {
