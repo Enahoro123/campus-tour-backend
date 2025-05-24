@@ -220,7 +220,27 @@
         { "url": "https://res.cloudinary.com/dajfddyeg/image/upload/v1743816964/project/qk2dkutlsaha9dbgwter.jpg", "is360": false }, 
         { "url": "https://pannellum.org/images/alma.jpg", "is360": true }, 
         { "url": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1", "is360": false }  
-      ]
+      ],
+      "departments": [
+      {
+        "id": 1,
+        "name": "Reference Department",
+        "description": "Handles reference materials and research assistance.",
+        "photos": [
+          "https://example.com/ref-dept-photo1.jpg",
+          "https://example.com/ref-dept-photo2.jpg"
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Circulation Department",
+       "description": "Manages book lending and returns.",
+        "photos": [
+          "https://example.com/circ-dept-photo1.jpg",
+          "https://example.com/circ-dept-photo2.jpg"
+        ]
+      }
+    ]
     },   
     { "id": 18, "name": "Green House", "lat": 7.163498046694972, "lng": 5.585006161277495, "info": "Main library with 24/7 access.", "panorama": "path/to/library-360.jpg"  },
     { "id": 19, "name": "Workshop", "lat": 7.165188543179739, "lng": 5.584719184997732, "info": "Main library with 24/7 access.", "panorama": "path/to/library-360.jpg"  },
