@@ -5,19 +5,16 @@
       "lat": 7.1677434346582345, 
       "lng": 5.584107689423546, 
       "info": "Main University library", 
-      "panorama": "https://res.cloudinary.com/dajfddyeg/image/upload/v1743816974/project/fwdp49fkxouoevsyvgbg.jpg", 
+      "panorama": "https://pannellum.org/images/alma.jpg", 
       "hours": {
         "Monday-Friday": "8:00 AM - 5:00 PM",
         "Saturday": "Closed",
         "Sunday": "Closed"
       }, 
-      "contact": { "phone": "+234 123 456 7891", "email": "science@campus.edu" },
       "photos": [
         { "url": "https://res.cloudinary.com/dajfddyeg/image/upload/v1743816968/project/a9pcihqnytrvgfytif5k.jpg", "is360": false }, 
-        { "url": "https://res.cloudinary.com/dajfddyeg/image/upload/v1743816974/project/xhuqdtsca9lavhdwzy9t.jpg", "is360": true }, 
         { "url": "https://res.cloudinary.com/dajfddyeg/image/upload/v1743816979/project/qcczlp1pij0mro5grbbg.jpg", "is360": false }
-      ],
-      "category": "library" 
+      ]
     },
     {
       "id": 2,
@@ -31,7 +28,6 @@
         "Saturday": "Open",
         "Sunday": "Open"
       }, 
-      "contact": { "phone": "+234 123 456 7891", "email": "science@campus.edu" },
       "photos": [
         { "url": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c", "is360": false }, 
         { "url": "https://pannellum.org/images/alma.jpg", "is360": true }, 
@@ -45,7 +41,7 @@
       "lat": 7.169389204824148, 
       "lng": 5.586664285031986, 
       "info": "Sports center", 
-      "panorama": "https://res.cloudinary.com/dajfddyeg/image/upload/v1743816950/project/whfny6okcahtdy8uieg3.jpg",
+      "panorama": "https://pannellum.org/images/alma.jpg",
       "hours": {
         "Monday-Sunday": "24/7"
       }, 
@@ -56,32 +52,21 @@
         ]
      },
     { 
-      "id": 5,  
-      "name": "Geology Laboratory", 
-      "lat": 7.168419391079243, 
-      "lng": 5.5849445386219125, 
-      "info": "Research Lab for geology students", 
-      "panorama": "https://res.cloudinary.com/dajfddyeg/image/upload/v1743082443/Lab_rtvldb.jpg","hours": {
-        "Monday-Friday": "6:00 AM - 7:00 PM",
-        "Saturday": "Closed",
-        "Sunday": "Closed"
-      }, 
-        "contact": { "phone": "+234 123 456 7891", "email": "science@campus.edu" },
-        "photos": [
-          { "url": "https://res.cloudinary.com/dajfddyeg/image/upload/v1743816977/project/jidrqd4cwjgpnp4kohyf.jpg", "is360": false },
-          { "url": "https://pannellum.org/images/alma.jpg", "is360": true }, 
-          { "url": "https://res.cloudinary.com/dajfddyeg/image/upload/v1743816979/project/canrvighzeeythpgpk59.jpg", "is360": false }
-        ],
-      "category": "academic"
-    },
-    { 
       "id": 6,  
       "name": "Health Center", 
       "lat": 7.1689900189214635, 
       "lng": 5.585870351165361, 
       "info": "Health Center with 24/7 access.", 
-      "panorama": "https://res.cloudinary.com/dajfddyeg/image/upload/v1743816968/project/pqernxkqf9aqeova0eee.jpg",
-      "category": "health"
+      "panorama": "https://pannellum.org/images/alma.jpg",
+      "hours": {
+        "Monday-Friday": "8:00 AM - 6:00 PM",
+        "Saturday": "Closed",
+        "Sunday": "Closed"
+      },
+      "photos": [
+        { "url": "https://res.cloudinary.com/dajfddyeg/image/upload/v1743816968/project/pqernxkqf9aqeova0eee.jpg", "is360": false },
+        { "url": "https://res.cloudinary.com/dajfddyeg/image/upload/v1748485928/project/egklmupfv7sz1tqwn0dd.jpg", "is360": false }
+      ]
     },
     { 
       "id": 7,  
@@ -95,7 +80,6 @@
         "Saturday": "Closed",
         "Sunday": "Closed"
       },
-      "contact": { "phone": "+234 123 456 7891", "email": "science@campus.edu" },
       "photos": [
         { "url": "https://res.cloudinary.com/dajfddyeg/image/upload/v1743816972/project/mpxvudgdgjiketplrjam.jpg", "is360": false }
       ]
@@ -114,14 +98,13 @@
       "name": "COSMAS", 
       "lat": 7.167562133317991, 
       "lng": 5.586343967739013, 
-      "info": "Main library with 24/7 access.", 
+      "info": "College Of Social and Management Science", 
       "panorama": "https://res.cloudinary.com/dajfddyeg/image/upload/v1743816954/project/cnwsottah1gjtp2qchcf.jpg",
       "hours": {
           "Monday-Friday": "8:00 AM - 6:00 PM",
           "Saturday": "Closed",
           "Sunday": "Closed"
       },
-      "contact": { "phone": "+234 123 456 7891", "email": "science@campus.edu" },
       "photos": [
         { "url": "https://res.cloudinary.com/dajfddyeg/image/upload/v1743816969/project/d9bm24q2lnrxhalarsyr.jpg", "is360": false }, 
         { "url": "https://res.cloudinary.com/dajfddyeg/image/upload/v1743816954/project/cnwsottah1gjtp2qchcf.jpg", "is360": true }, 
@@ -134,8 +117,8 @@
       "name": "Auditorium", 
       "lat": 7.168063906286715, 
       "lng": 5.586261953689201, 
-      "info": "Main library with 24/7 access.", 
-      "panorama": "https://res.cloudinary.com/dajfddyeg/image/upload/v1743816954/project/s7wuikzt5n5noaizi40r.jpg",
+      "info": "University Hall", 
+      "panorama": "https://res.cloudinary.com/dajfddyeg/image/upload/v1748485934/project/zdsoxgrzehlwoihdvgsy.jpg",
       "category": "Hall" 
     },
     { 
@@ -146,13 +129,20 @@
       "info": "Sport Director's Office", 
       "panorama": "https://res.cloudinary.com/dajfddyeg/image/upload/v1743816970/project/gm6gk8fminlho6fufaqp.jpg"  
     },
-    { "id": 12, "name": "ICT", "lat": 7.168189913842379, "lng": 5.584874092313215, "info": "Main library with 24/7 access.", "panorama": "path/to/library-360.jpg"  },
+    { 
+      "id": 12, 
+      "name": "ICT", 
+      "lat": 7.168189913842379, 
+      "lng": 5.584874092313215, 
+      "info": "Main library with 24/7 access.", 
+      "panorama": "path/to/library-360.jpg"  
+    },
     { 
       "id": 13, 
       "name": "Lecture Hall (LH)", 
       "lat": 7.167941197699729, 
       "lng": 5.5855877772205, 
-      "info": "Main library with 24/7 access.", 
+      "info": "Lecture class", 
       "panorama": "https://res.cloudinary.com/dajfddyeg/image/upload/v1748482682/project/dvtdunswtqwk2u5c8tuc.jpg",
       "hours": {
         "Monday-Sunday": "24/7"
@@ -173,7 +163,6 @@
           "Saturday": "Closed",
           "Sunday": "Closed"
       },
-      "contact": { "phone": "+234 123 456 7891", "email": "science@campus.edu" },
       "photos": [
         { "url": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c", "is360": false }, 
         { "url": "https://res.cloudinary.com/dajfddyeg/image/upload/v1743816954/project/z5u4ql3cs85spn11jwrr.jpg", "is360": true }, 
@@ -185,7 +174,7 @@
       "name": "Student Center", 
       "lat": 7.164408264876963, 
       "lng": 5.5834471706904845, 
-      "info": "Main library with 24/7 access.",
+      "info": "Student Center",
       "panorama": "https://res.cloudinary.com/dajfddyeg/image/upload/v1748483488/project/csnqqtwno5gddaqtewhn.jpg"  
     },
     { "id": 16, "name": "Mini Field", "lat": 7.164115525384708, "lng": 5.582900000040736, "info": "Main library with 24/7 access.", "panorama": "path/to/library-360.jpg"  },
@@ -194,7 +183,7 @@
       "name": "Engineering", 
       "lat": 7.164792014871006, 
       "lng": 5.583946708797053, 
-      "info": "Engineering Department", 
+      "info": "Engineering Building", 
       "panorama": "https://res.cloudinary.com/dajfddyeg/image/upload/v1743460538/project/kmxrgv9gv2g2qlq5hqai.jpg",
       "hours": {
         "Monday-Friday": "8:00 AM - 6:00 PM",
@@ -211,7 +200,7 @@
       {
         "id": 1,
         "name": "Computer Science Department",
-        "description": "Handles reference materials and research assistance.",
+        "description": "",
         "photos": [
           "https://res.cloudinary.com/dajfddyeg/image/upload/v1743816964/project/qk2dkutlsaha9dbgwter.jpg",
           "https://example.com/ref-dept-photo2.jpg"
@@ -219,8 +208,8 @@
       },
       {
         "id": 2,
-        "name": "Computer Engineering Department",
-       "description": "Manages book lending and returns.",
+        "name": "Biomedical Engineering Department",
+       "description": "",
         "photos": [
           "https://example.com/circ-dept-photo1.jpg",
           "https://example.com/circ-dept-photo2.jpg"
@@ -247,7 +236,7 @@
       "name": "Workshop", 
       "lat": 7.165188543179739, 
       "lng": 5.584719184997732, 
-      "info": "Main library with 24/7 access.", 
+      "info": "Engineering Workshop", 
       "panorama": "https://res.cloudinary.com/dajfddyeg/image/upload/v1748480654/project/ldlrgp5hvcntpkcipyfg.jpg",
       "hours": {
         "Monday-Sunday": "24/7"
@@ -313,7 +302,6 @@
         "Saturday": "Closed",
         "Sunday": "Closed"
       }, 
-      "contact": { "phone": "+234 123 456 7891", "email": "science@campus.edu" },
       "photos": [
         { "url": "https://res.cloudinary.com/dajfddyeg/image/upload/v1743816977/project/yledf3xzkblgmhd1lhai.jpg", "is360": false },
         { "url": "https://pannellum.org/images/alma.jpg", "is360": true }, 
@@ -332,7 +320,6 @@
         "Saturday": "Closed",
         "Sunday": "Closed"
       }, 
-      "contact": { "phone": "+234 123 456 7891", "email": "science@campus.edu" },
     "photos": [
       { "url": "https://res.cloudinary.com/dajfddyeg/image/upload/v1743816976/project/zhigm4ichdskcrxeszgb.jpg", "is360": false },
       { "url": "https://pannellum.org/images/alma.jpg", "is360": true }, 
