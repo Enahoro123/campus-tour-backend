@@ -174,7 +174,20 @@
       "panorama": "https://res.cloudinary.com/dajfddyeg/image/upload/v1743816970/project/gm6gk8fminlho6fufaqp.jpg"  
     },
     { "id": 12, "name": "ICT", "lat": 7.168189913842379, "lng": 5.584874092313215, "info": "Main library with 24/7 access.", "panorama": "path/to/library-360.jpg"  },
-    { "id": 13, "name": "Lecture Hall (LH)", "lat": 7.167941197699729, "lng": 5.5855877772205, "info": "Main library with 24/7 access.", "panorama": "path/to/library-360.jpg"  },
+    { 
+      "id": 13, 
+      "name": "Lecture Hall (LH)", 
+      "lat": 7.167941197699729, 
+      "lng": 5.5855877772205, 
+      "info": "Main library with 24/7 access.", 
+      "panorama": "https://res.cloudinary.com/dajfddyeg/image/upload/v1748482682/project/dvtdunswtqwk2u5c8tuc.jpg",
+      "hours": {
+        "Monday-Sunday": "24/7"
+      }, 
+      "photos": [
+        { "url": "https://res.cloudinary.com/dajfddyeg/image/upload/v1748482692/project/hamlu1sihemro4dv1qle.jpg", "is360": false }
+      ]
+    },  
     { 
       "id": 14, 
       "name": "Admin", 
@@ -242,8 +255,34 @@
       }
     ]
     },   
-    { "id": 18, "name": "Green House", "lat": 7.163498046694972, "lng": 5.585006161277495, "info": "Main library with 24/7 access.", "panorama": "path/to/library-360.jpg"  },
-    { "id": 19, "name": "Workshop", "lat": 7.165188543179739, "lng": 5.584719184997732, "info": "Main library with 24/7 access.", "panorama": "path/to/library-360.jpg"  },
+    { 
+      "id": 18, 
+      "name": "Green House", 
+      "lat": 7.163498046694972, 
+      "lng": 5.585006161277495, 
+      "info": "Main library with 24/7 access.", 
+      "panorama": "https://res.cloudinary.com/dajfddyeg/image/upload/v1748480280/project/ti7hecp4wyuqzkqurzio.jpg",
+      "hours": {
+        "Monday-Sunday": "24/7"
+      }, 
+      "photos": [
+        { "url": "https://res.cloudinary.com/dajfddyeg/image/upload/v1748480287/project/fy3cudp7f76r2tj0gsr8.jpg", "is360": false }
+      ]
+    },  
+    { 
+      "id": 19, 
+      "name": "Workshop", 
+      "lat": 7.165188543179739, 
+      "lng": 5.584719184997732, 
+      "info": "Main library with 24/7 access.", 
+      "panorama": "https://res.cloudinary.com/dajfddyeg/image/upload/v1748480654/project/ldlrgp5hvcntpkcipyfg.jpg",
+      "hours": {
+        "Monday-Sunday": "24/7"
+      }, 
+      "photos": [
+        { "url": "https://res.cloudinary.com/dajfddyeg/image/upload/v1748480614/project/djphl9otnd6lhqizstry.jpg", "is360": false }
+      ]  
+    },
     { 
       "id": 20, 
       "name": "Senator Bode Olajumoke Hall", 
