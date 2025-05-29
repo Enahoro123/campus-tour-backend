@@ -89,7 +89,7 @@
       "name": "CBT", 
       "lat": 7.16737052336126, 
       "lng": 5.585984551723982, 
-      "info": "Main library with 24/7 access.", 
+      "info": "Computer based test.", 
       "panorama": "https://res.cloudinary.com/dajfddyeg/image/upload/v1743816951/project/trfhl1vz1sxmbk6rb5l8.jpg",
       "category": "academic"
     },
@@ -134,7 +134,7 @@
       "name": "ICT", 
       "lat": 7.168189913842379, 
       "lng": 5.584874092313215, 
-      "info": "Main library with 24/7 access.", 
+      "info": "", 
       "panorama": "path/to/library-360.jpg"  
     },
     { 
@@ -177,7 +177,7 @@
       "info": "Student Center",
       "panorama": "https://res.cloudinary.com/dajfddyeg/image/upload/v1748483488/project/csnqqtwno5gddaqtewhn.jpg"  
     },
-    { "id": 16, "name": "Mini Field", "lat": 7.164115525384708, "lng": 5.582900000040736, "info": "Main library with 24/7 access.", "panorama": "path/to/library-360.jpg"  },
+    { "id": 16, "name": "Mini Field", "lat": 7.164115525384708, "lng": 5.582900000040736, "info": "Mini Football Field", "panorama": "path/to/library-360.jpg"  },
     { 
       "id": 17, 
       "name": "Engineering", 
@@ -190,29 +190,23 @@
         "Saturday": "Closed",
         "Sunday": "Closed"
     },
-      "contact": { "phone": "+234 123 456 7891", "email": "science@campus.edu" },
       "photos": [
         { "url": "https://res.cloudinary.com/dajfddyeg/image/upload/v1743816964/project/qk2dkutlsaha9dbgwter.jpg", "is360": false }, 
-        { "url": "https://pannellum.org/images/alma.jpg", "is360": true }, 
-        { "url": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1", "is360": false }  
+        { "url": "https://res.cloudinary.com/dajfddyeg/image/upload/v1748488994/project/xylgrefp7pfraldzvrzf.jpg", "is360": true }
       ],
       "departments": [
       {
         "id": 1,
         "name": "Computer Science Department",
-        "description": "",
         "photos": [
-          "https://res.cloudinary.com/dajfddyeg/image/upload/v1743816964/project/qk2dkutlsaha9dbgwter.jpg",
-          "https://example.com/ref-dept-photo2.jpg"
+          "https://res.cloudinary.com/dajfddyeg/image/upload/v1748489000/project/mi7n6khpe2nnijsnvepi.jpg"
         ]
       },
       {
         "id": 2,
         "name": "Biomedical Engineering Department",
-       "description": "",
         "photos": [
-          "https://example.com/circ-dept-photo1.jpg",
-          "https://example.com/circ-dept-photo2.jpg"
+          "https://res.cloudinary.com/dajfddyeg/image/upload/v1748488994/project/xylgrefp7pfraldzvrzf.jpg"
         ]
       }
     ]
@@ -222,7 +216,7 @@
       "name": "Green House", 
       "lat": 7.163498046694972, 
       "lng": 5.585006161277495, 
-      "info": "Main library with 24/7 access.", 
+      "info": "Achievers Green House", 
       "panorama": "https://res.cloudinary.com/dajfddyeg/image/upload/v1748480280/project/ti7hecp4wyuqzkqurzio.jpg",
       "hours": {
         "Monday-Sunday": "24/7"
@@ -250,7 +244,7 @@
       "name": "Senator Bode Olajumoke Hall", 
       "lat": 7.16333630055384, 
       "lng": 5.583458546759577, 
-      "info": "Female Hostel", 
+      "info": "Female Hostel with 24/7 access.", 
       "panorama": "https://res.cloudinary.com/dajfddyeg/image/upload/v1748478838/project/tqqtbxjboanjbwy1hnff.jpg", 
       "hours": {
         "Monday-Sunday": "24/7"
@@ -273,7 +267,7 @@
       "name": "Atiku Hall", 
       "lat": 7.162990334869092, 
       "lng": 5.582739714736133, 
-      "info": "Male Hostel", 
+      "info": "Male Hostel with 24/7 access.", 
       "panorama": "https://res.cloudinary.com/dajfddyeg/image/upload/v1748479563/project/uzfquk4sbepqknfnncwt.jpg",
       "hours": {
         "Monday-Sunday": "24/7"
