@@ -5,7 +5,7 @@
       "lat": 7.1677434346582345, 
       "lng": 5.584107689423546, 
       "info": "Main University library", 
-      "panorama": "https://pannellum.org/images/alma.jpg", 
+      "panorama": "", 
       "hours": {
         "Monday-Friday": "8:00 AM - 5:00 PM",
         "Saturday": "Closed",
@@ -22,16 +22,14 @@
       "lat": 7.166255718534718,
       "lng": 5.583459121658334,
       "info": "Male and Female Hostel with 24/7 access.",
-      "panorama": "https://pannellum.org/images/alma.jpg",
+      "panorama": "https://res.cloudinary.com/dajfddyeg/image/upload/v1748490280/project/pgjoh5idmqkerysjpzcq.jpg",
       "hours": {
         "Monday-Sunday": "24/7",
         "Saturday": "Open",
         "Sunday": "Open"
       }, 
       "photos": [
-        { "url": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c", "is360": false }, 
-        { "url": "https://pannellum.org/images/alma.jpg", "is360": true }, 
-        { "url": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1", "is360": false }
+        { "url": "https://res.cloudinary.com/dajfddyeg/image/upload/v1748490280/project/pgjoh5idmqkerysjpzcq.jpg", "is360": true }
       ],
       "category": "hostel"
     },
