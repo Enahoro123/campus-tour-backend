@@ -45,40 +45,16 @@
       "lat": 7.169389204824148, 
       "lng": 5.586664285031986, 
       "info": "Sports center", 
-      "panorama": "path/to/library-360.jpg",
+      "panorama": "https://res.cloudinary.com/dajfddyeg/image/upload/v1743816950/project/whfny6okcahtdy8uieg3.jpg",
       "hours": {
-        "Monday-Friday": "6:00 AM - 7:00 PM",
-        "Saturday": "Closed",
-        "Sunday": "Closed"
+        "Monday-Sunday": "24/7"
       }, 
-        "contact": { "phone": "+234 123 456 7891", "email": "science@campus.edu" },
         "photos": [
           { "url": "https://res.cloudinary.com/dajfddyeg/image/upload/v1743816977/project/jidrqd4cwjgpnp4kohyf.jpg", "is360": false },
-          { "url": "https://pannellum.org/images/alma.jpg", "is360": true }, 
-          { "url": "https://res.cloudinary.com/dajfddyeg/image/upload/v1743816979/project/canrvighzeeythpgpk59.jpg", "is360": false }
-        ],
-      "category": "sports"
+          { "url": "https://res.cloudinary.com/dajfddyeg/image/upload/v1743816979/project/canrvighzeeythpgpk59.jpg", "is360": false },
+          { "url": "https://res.cloudinary.com/dajfddyeg/image/upload/v1743816950/project/whfny6okcahtdy8uieg3.jpg", "is360": false }
+        ]
      },
-    { 
-      "id": 4,  
-      "name": "Football Field", 
-      "lat": 7.169416742407802, 
-      "lng": 5.588403892948219, 
-      "info": "Main Footbal Field", 
-      "panorama": "path/to/library-360.jpg",
-      "hours": {
-        "Monday-Friday": "6:00 AM - 7:00 PM",
-        "Saturday": "Open",
-        "Sunday": "Open"
-      }, 
-        "contact": { "phone": "+234 123 456 7891", "email": "science@campus.edu" },
-        "photos": [
-          { "url": "https://res.cloudinary.com/dajfddyeg/image/upload/v1743816977/project/jidrqd4cwjgpnp4kohyf.jpg", "is360": false },
-          { "url": "https://pannellum.org/images/alma.jpg", "is360": true }, 
-          { "url": "https://res.cloudinary.com/dajfddyeg/image/upload/v1743816979/project/canrvighzeeythpgpk59.jpg", "is360": false }
-        ],
-      "category": "sports"
-    },
     { 
       "id": 5,  
       "name": "Geology Laboratory", 
@@ -113,7 +89,7 @@
       "lat": 7.16865030519752, 
       "lng": 5.585485649537393, 
       "info": "College of Law", 
-      "panorama": "https://res.cloudinary.com/dajfddyeg/image/upload/v1743816972/project/mpxvudgdgjiketplrjam.jpg",
+      "panorama": "https://res.cloudinary.com/dajfddyeg/image/upload/v1748483462/project/w3amr9suilimdi9zofqj.jpg",
       "hours": {
         "Monday-Friday": "8:00 AM - 6:00 PM",
         "Saturday": "Closed",
@@ -121,11 +97,8 @@
       },
       "contact": { "phone": "+234 123 456 7891", "email": "science@campus.edu" },
       "photos": [
-        { "url": "https://res.cloudinary.com/dajfddyeg/image/upload/v1743816979/project/qcczlp1pij0mro5grbbg.jpg", "is360": false }, 
-        { "url": "https://res.cloudinary.com/dajfddyeg/image/upload/v1743816974/project/fwdp49fkxouoevsyvgbg.jpg", "is360": true }, 
-        { "url": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1", "is360": false }  
-      ],
-      "category": "academic"
+        { "url": "https://res.cloudinary.com/dajfddyeg/image/upload/v1743816972/project/mpxvudgdgjiketplrjam.jpg", "is360": false }
+      ]
     }, 
     { 
       "id": 8,  
@@ -213,7 +186,7 @@
       "lat": 7.164408264876963, 
       "lng": 5.5834471706904845, 
       "info": "Main library with 24/7 access.",
-      "panorama": "https://res.cloudinary.com/dajfddyeg/image/upload/v1743816977/project/zbzrtsnfm8ipm3huqwzo.jpg"  
+      "panorama": "https://res.cloudinary.com/dajfddyeg/image/upload/v1748483488/project/csnqqtwno5gddaqtewhn.jpg"  
     },
     { "id": 16, "name": "Mini Field", "lat": 7.164115525384708, "lng": 5.582900000040736, "info": "Main library with 24/7 access.", "panorama": "path/to/library-360.jpg"  },
     { 
