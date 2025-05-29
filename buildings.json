@@ -191,30 +191,34 @@
       "photos": [
         { "url": "https://res.cloudinary.com/dajfddyeg/image/upload/v1743816964/project/qk2dkutlsaha9dbgwter.jpg", "is360": false }, 
         { "url": "https://res.cloudinary.com/dajfddyeg/image/upload/v1748488994/project/xylgrefp7pfraldzvrzf.jpg", "is360": true },
-        { "url": "https://res.cloudinary.com/dajfddyeg/image/upload/v1748489000/project/mi7n6khpe2nnijsnvepi.jpg", "is360": false }
+        { "url": "https://res.cloudinary.com/dajfddyeg/image/upload/v1748489000/project/mi7n6khpe2nnijsnvepi.jpg", "is360": true }        
       ],
       "departments": [
-        {
-          "id": 1,
-          "name": "Computer Science Department"
-        },
-        {
-          "id": 2,
-          "name": "Biomedical Engineering Department"
-        },      
-        {
-          "id": 3,
-          "name": "Computer Engineering Department"
-        },      
-        {
-          "id": 4,
-          "name": "Civil Engineering Department"
-        },      
-        {
-          "id": 5,
-          "name": "Mechatronics Engineering Department"
-        }
-      ]
+      {
+        "id": 1,
+        "name": "Computer Science Department",
+        "photos": [
+          "https://res.cloudinary.com/dajfddyeg/image/upload/v1748489000/project/mi7n6khpe2nnijsnvepi.jpg"
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Biomedical Engineering Department",
+        "photos": [
+          "https://res.cloudinary.com/dajfddyeg/image/upload/v1748488994/project/xylgrefp7pfraldzvrzf.jpg"
+        ]
+      },      
+      {
+        "id": 3,
+        "name": "Computer Engineering Department"
+      },      {
+        "id": 4,
+        "name": "Civil Engineering Department"
+      },      {
+        "id": 5,
+        "name": "Mechatronics Engineering Department"
+      }
+    ]
     },   
     { 
       "id": 18, 
