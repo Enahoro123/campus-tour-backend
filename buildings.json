@@ -244,7 +244,20 @@
     },   
     { "id": 18, "name": "Green House", "lat": 7.163498046694972, "lng": 5.585006161277495, "info": "Main library with 24/7 access.", "panorama": "path/to/library-360.jpg"  },
     { "id": 19, "name": "Workshop", "lat": 7.165188543179739, "lng": 5.584719184997732, "info": "Main library with 24/7 access.", "panorama": "path/to/library-360.jpg"  },
-    { "id": 20, "name": "Bode Olajumoke Hall", "lat": 7.16333630055384, "lng": 5.583458546759577, "info": "Female Hostel", "panorama": "path/to/library-360.jpg"  },
+    { 
+      "id": 20, 
+      "name": "Senator Bode Olajumoke Hall", 
+      "lat": 7.16333630055384, 
+      "lng": 5.583458546759577, 
+      "info": "Female Hostel", 
+      "panorama": "https://res.cloudinary.com/dajfddyeg/image/upload/v1748478838/project/tqqtbxjboanjbwy1hnff.jpg", 
+      "hours": {
+        "Monday-Sunday": "24/7"
+      }, 
+      "photos": [
+        { "url": "https://res.cloudinary.com/dajfddyeg/image/upload/v1748479114/project/uhnqq2ua2nyf9dpjrdf2.jpg", "is360": false }
+      ]
+    },
     { 
       "id": 21, 
       "name": "Lady Babade Adelami Hall", 
@@ -254,7 +267,20 @@
       "panorama": "https://res.cloudinary.com/dajfddyeg/image/upload/v1748476519/project/c2knukpy3zr7so54orgf.jpg"  
     },
     { "id": 22, "name": "Bakery", "lat": 7.163000979967057, "lng": 5.581366423712312, "info": "School Bakery", "panorama": "path/to/library-360.jpg"  },
-    { "id": 23, "name": "Atiku Hall", "lat": 7.162990334869092, "lng": 5.582739714736133, "info": "Male Hostel", "panorama": "path/to/library-360.jpg"  },
+    { 
+      "id": 23, 
+      "name": "Atiku Hall", 
+      "lat": 7.162990334869092, 
+      "lng": 5.582739714736133, 
+      "info": "Male Hostel", 
+      "panorama": "https://res.cloudinary.com/dajfddyeg/image/upload/v1748479563/project/uzfquk4sbepqknfnncwt.jpg",
+      "hours": {
+        "Monday-Sunday": "24/7"
+      }, 
+      "photos": [
+        { "url": "https://res.cloudinary.com/dajfddyeg/image/upload/v1748479570/project/qojxyl6w3kqvhutzjym0.jpg", "is360": false }
+      ]
+    },
     { 
       "id": 24, 
       "name": "Joked", 
@@ -276,11 +302,11 @@
         "Sunday": "Closed"
       }, 
       "contact": { "phone": "+234 123 456 7891", "email": "science@campus.edu" },
-    "photos": [
-      { "url": "https://res.cloudinary.com/dajfddyeg/image/upload/v1743816977/project/yledf3xzkblgmhd1lhai.jpg", "is360": false },
-      { "url": "https://pannellum.org/images/alma.jpg", "is360": true }, 
-      { "url": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1", "is360": false }
-    ]
+      "photos": [
+        { "url": "https://res.cloudinary.com/dajfddyeg/image/upload/v1743816977/project/yledf3xzkblgmhd1lhai.jpg", "is360": false },
+        { "url": "https://pannellum.org/images/alma.jpg", "is360": true }, 
+        { "url": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1", "is360": false }
+      ]
     },
     {
       "id": 26,
